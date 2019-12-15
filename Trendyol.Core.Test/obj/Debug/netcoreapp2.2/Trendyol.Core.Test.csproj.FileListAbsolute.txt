@@ -1,0 +1,17 @@
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\Trendyol.Core.Test.deps.json
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\Trendyol.Core.Test.runtimeconfig.json
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\Trendyol.Core.Test.runtimeconfig.dev.json
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\Trendyol.Core.Test.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\Trendyol.Core.Test.pdb
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\Trendyol.Core.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\bin\Debug\netcoreapp2.2\Trendyol.Core.pdb
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\obj\Debug\netcoreapp2.2\Trendyol.Core.Test.csprojAssemblyReference.cache
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\obj\Debug\netcoreapp2.2\Trendyol.Core.Test.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\obj\Debug\netcoreapp2.2\Trendyol.Core.Test.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\obj\Debug\netcoreapp2.2\Trendyol.Core.Test.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\obj\Debug\netcoreapp2.2\Trendyol.Core.Test.csproj.CopyComplete
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\obj\Debug\netcoreapp2.2\Trendyol.Core.Test.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core.Test\obj\Debug\netcoreapp2.2\Trendyol.Core.Test.pdb

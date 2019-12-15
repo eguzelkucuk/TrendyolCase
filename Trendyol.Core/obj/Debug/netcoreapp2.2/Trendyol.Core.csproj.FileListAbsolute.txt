@@ -1,0 +1,9 @@
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\bin\Debug\netcoreapp2.2\Trendyol.Core.deps.json
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\bin\Debug\netcoreapp2.2\Trendyol.Core.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\bin\Debug\netcoreapp2.2\Trendyol.Core.pdb
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\obj\Debug\netcoreapp2.2\Trendyol.Core.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\obj\Debug\netcoreapp2.2\Trendyol.Core.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\obj\Debug\netcoreapp2.2\Trendyol.Core.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\obj\Debug\netcoreapp2.2\Trendyol.Core.dll
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\obj\Debug\netcoreapp2.2\Trendyol.Core.pdb
+C:\Users\Erkan\source\repos\TrendyolTestCase\Trendyol.Core\obj\Debug\netcoreapp2.2\Trendyol.Core.csprojAssemblyReference.cache
