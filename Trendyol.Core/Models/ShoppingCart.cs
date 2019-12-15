@@ -19,16 +19,18 @@ namespace Trendyol.Core.Models
             ShoppingCartList = new List<ShoppingCart>();
         }
 
-        public Product Product { get; set; }
-        private double _totalPrice { get; set; }
-        public double TotalPrice { get { return _totalPrice; } set { _totalPrice = value; } }
         private List<Coupon> AppliedCoupon { get; set; }
         private List<Campaign> AppliedCampaign { get; set; }
-
-        public double AppliedCouponTotal { get; set; }
-        public double AppliedCampaignTotal { get; set; }
-
+        private double _totalPrice { get; set; }
+        private double _appliedCouponTotal { get; set; }
+        private double _appliedCampaignTotal { get; set; }
         private int _quantity { get; set; }
+
+
+        public Product Product { get; set; }
+        public double TotalPrice { get { return _totalPrice; } set { _totalPrice = value; } }
+        public double AppliedCouponTotal { get { return _appliedCouponTotal; } set { _appliedCouponTotal = value; } }
+        public double AppliedCampaignTotal { get { return _appliedCampaignTotal; } set { _appliedCampaignTotal = value; } }
         public int Quantity { get { return _quantity; } set { _quantity = value; } }
 
         public void applyCoupon(Coupon coupon)
@@ -102,7 +104,7 @@ namespace Trendyol.Core.Models
             if (ShoppingCartList.Count() == 0) throw new NullReferenceException("ShoppingCart Boş!");
             var numberOfDeliveries = ShoppingCartList.GroupBy(g => g.Product.Category).Count();
             var numberOfProduct = ShoppingCartList.GroupBy(g => g.Product).Count();
-            return (DeliveryCostVariable.costPerDelivery * numberOfDeliveries) + (DeliveryCostVariable.costPerProduct * numberOfProduct) + DeliveryCostVariable.FixedCost;
+            return (DeliveryCostVariable.costPerDelivery * numberOfDeliveries) + (DeliveryCostVariable.costPerProduct * numberOfProduct) + DeliveryCostVariable.fixedCost;
         }
         public void Print()
         {

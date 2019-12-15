@@ -8,6 +8,6 @@ namespace Trendyol.Core
     {
         public static double costPerDelivery = 3.71;
         public static double costPerProduct = 1.75;
-        public static double FixedCost = 2.99;
+        public static double fixedCost = 2.99;
     }
 }

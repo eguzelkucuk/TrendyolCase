@@ -23,17 +23,14 @@ namespace Trendyol.ConsoleApp
             campaignList.Add(new Campaign(category, 20.0, 3, DiscountType.Rate));
             campaignList.Add(new Campaign(category, 50.0, 5, DiscountType.Rate));
             campaignList.Add(new Campaign(category, 5.0, 5, DiscountType.Amount));
-
             cart.applyDiscounts(campaignList);
 
             Coupon coupon = new Coupon(100, 10, DiscountType.Rate);
-
             cart.applyCoupon(coupon);
-
 
             cart.Print();
 
-            DeliveryCostCalculator deliveryCostCalculator = new DeliveryCostCalculator(DeliveryCostVariable.costPerDelivery, DeliveryCostVariable.costPerProduct, DeliveryCostVariable.FixedCost);
+            DeliveryCostCalculator deliveryCostCalculator = new DeliveryCostCalculator(DeliveryCostVariable.costPerDelivery, DeliveryCostVariable.costPerProduct, DeliveryCostVariable.fixedCost);
             deliveryCostCalculator.calculateFor(cart);
         }
     }
