@@ -1,4 +1,3 @@
-# Shopping Cart
 # Trendyol Console App
 
 This project is a simple shopping cart application simulation for Trendyol. The application includes adding products to the cart, applying campaign and coupon discounts, and calculating delivery costs.
